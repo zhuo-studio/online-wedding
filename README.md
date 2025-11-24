@@ -1,1 +1,1 @@
-All rights reserved. See the [LICENSE](LICENSE) file for details.
+All rights reserved. See the [LICENSE](LICENSE.md) file for details.
